@@ -31,4 +31,4 @@ if M <= 0 or K <= 0:
   K=int(input("Введіть значення K: "))
 
 days_needed = sport(M, K)
-print(f"Спортсмен пробіжить більше 50 км через {days_needed} днів.")
+print(f"Спортсмен пробіжить більше 50 км через {days_needed} днів. ")
